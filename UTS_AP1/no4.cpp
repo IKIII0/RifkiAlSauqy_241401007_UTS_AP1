@@ -2,6 +2,7 @@
 using namespace std;
 
 int main(){
+    system("cls");
     string mantra;
     int i,vokal;
     vokal = 0;
